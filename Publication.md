@@ -2,14 +2,14 @@
 layout: default
 title: "Publication"
 ---
- ## Manuscript under Preparation
+## Manuscript under Preparation
  1. Disturbances in monoamine metabolism evident from placental proteome in response to prenatal cannabis exposure.
    
  2. Integrative clinical and preclinical investigation decipher imbalanced lipid metabolism dysregulating immune function and endocannabinoid gene network specific to male cannabinoid exposed placental transcriptome.
    
  3. Interplay of miRNAs in immune dysregulation of cannabises exposed Placental Transcriptomics by modulating TGFB signaling.
 
- ## Peer-reviewed Publications
+## Peer-reviewed Publications
 
  1. Naskar T, Faruq M, Banerjee P, Khan M, Midha R, Kumari R, Devasenapathy S, Prajapati B, Sengupta S, Jain D, Mukerji M, Singh NC, Sinha S. Ancestral Variations of the PCDHG Gene Cluster Predispose to Dyslexia in a Multiplex Family. EBioMedicine. 2018 Feb; 28: 168-179. doi: 10.1016/j.ebiom.2017.12.031. Epub 2018 Jan 9. PMID: 29409727; PMCID: PMC5835549.
    
