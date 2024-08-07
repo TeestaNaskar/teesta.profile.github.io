@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Teaching"
+title: "Event organization"
 ---
 
 {% if site.show_excerpts %}
