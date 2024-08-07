@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Mentoring"
+title: "Teaching & Mentoring"
 ---
 
 {% if site.show_excerpts %}
