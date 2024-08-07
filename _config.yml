@@ -20,6 +20,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About me", icon: Home}
   - {title: "Publication", file: "Publication.md"}
   - {title: "Mentoring", file: "mentoring.md"}
+  - {title: "Teaching", file: "Teaching.md"}
+  - {title: "Public outreach", file: "publicoutreach.md"}
+  - {title: "Media", file: "Media.md"}
+  - {title: "Personal Blog", file: "blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:teesnadi@gmail.com"}
