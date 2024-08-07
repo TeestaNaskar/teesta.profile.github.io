@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Teesta Naskar.pdf", title: "CV", icon: Home}
   - {title: "About me", icon: Home}
-  - {title: "Publication", icon: Home}
+  - {title: "Publication", file: "Publication.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:teesnadi@gmail.com"}
