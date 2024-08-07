@@ -19,8 +19,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "TeestaNaskar.pdf", title: "CV", icon: Home}
   - {title: "About me", icon: Home}
   - {title: "Publication", file: "Publication.md"}
-  - {title: "Mentoring", file: "mentoring.md"}
-  - {title: "Teaching", file: "Teaching.md"}
+  - {title: "Award", file: "Award.md"}
+  - {title: "Talk", file: "Talk.md"}
+  - {title: "Teaching & Mentoring", file: "mentoring.md"}
+  - {title: "Event organization", file: "organization.md"}
   - {title: "Public outreach", file: "publicoutreach.md"}
   - {title: "Media", file: "Media.md"}
   - {title: "Personal Blog", file: "blog"}
