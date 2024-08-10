@@ -29,7 +29,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:teesnadi@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/naskat01"}
+  - {title: Github, icon: github, url: "https://github.com/TeestaNaskar?tab=repositories"}
   - {title: Twitter, icon: twitter, url: "https://x.com/teesta_neuro"}
 
 comments:
