@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Publication", file: "Publication.md"}
   - {title: "Award", file: "Award.md"}
   - {title: "Talk", file: "Talk.md"}
+  - {title: "CV", file: "Teesta Naskar_CV.pdf"}
   - {title: "Teaching & Mentoring", file: "mentoring.md"}
   - {title: "Event organization", file: "organization.md"}
   - {title: "Public outreach", file: "publicoutreach.md"}
